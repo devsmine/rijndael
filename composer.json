@@ -2,6 +2,7 @@
     "name": "devsmine/rijndael",
     "description": "AES encrypt/decrypt, Android, iOS, php compatible",
     "type": "library",
+    "keywords": ["encrypt","decrypt","encrypt/decrypt","AES encrypt/decrypt"],
     "license": "mit",
     "authors": [
         {
