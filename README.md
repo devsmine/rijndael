@@ -9,11 +9,12 @@ Via Composer
 ## Usage
 
  ### McryptData
- 	 
-    $key="DjrF1un4YL1d7ElNmO7NYkIP2j38rB0a";  
-	$mcrypt=new McryptData($key);
-	echo $encryptData=$mcrypt->encrypt("Enter your text");
-	echo "\n"; //New Line
-	echo $mcrypt->decrypt($encryptData);
-    
+
+```php
+$key="DjrF1un4YL1d7ElNmO7NYkIP2j38rB0a";
+        $mcrypt=new McryptData($key);
+        echo $encryptData=$mcrypt->encrypt("Enter your text");
+        echo "\n"; //New Line
+        echo $mcrypt->decrypt($encryptData);
+```
 
