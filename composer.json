@@ -1,0 +1,16 @@
+{
+    "name": "devsmine/rijndael",
+    "description": "AES encrypt/decrypt, Android, iOS, php compatible",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Nazrul Islam Nadeem",
+            "email": "nzl.nadeem@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-openssl": "*"
+    }
+}
